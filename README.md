@@ -35,7 +35,7 @@ _Welcome to "Communicate using Markdown"! :wave:_
 **What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
 ##### Adding a piece of code
 ``` C
-int str[20]="Hello World"; 
+printf("Hello World"); 
 ```
 ### Example
 
