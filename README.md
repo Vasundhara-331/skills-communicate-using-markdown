@@ -45,7 +45,9 @@ int str[20]="Hello World";
 
 ###### This is an `<h6>` header, which is the smallest
 ```
-
+- [X] Turn on GitHub pages
+- [] Outline my portfolio
+- [X] Introduce myself to the world
 #### How it looks
 
 # This is an `<h1>` header, which is the largest
